@@ -1,2 +1,2 @@
 # deta-orm
-an orm like functionality for deta-base
+an orm like Wrapper for deta-base(There is no such concept called ORM in Deta-Base).
