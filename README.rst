@@ -20,7 +20,7 @@ deta-orm
 
 
 
-a orm like interactive wrapper for deta base.
+an orm like Wrapper for deta-base(There is no such concept called ORM in Deta-Base).
 
 
 * Free software: MIT license

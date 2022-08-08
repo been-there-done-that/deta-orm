@@ -28,7 +28,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="a orm like interactive wrapper for deta base.",
+    description="an orm like Wrapper for deta-base(There is no such concept called ORM in Deta-Base).",
     install_requires=requirements,
     license="MIT license",
     long_description=readme + '\n\n' + history,
